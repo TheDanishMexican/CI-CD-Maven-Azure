@@ -1,0 +1,1 @@
+[![Build and deploy JAR app to Azure Web App - demoplayersteknologi](https://github.com/TheDanishMexican/CI-CD-Maven-Azure/actions/workflows/main_demoplayersteknologi.yml/badge.svg)](https://github.com/TheDanishMexican/CI-CD-Maven-Azure/actions/workflows/main_demoplayersteknologi.yml)
